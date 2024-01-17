@@ -77,4 +77,4 @@ print(classification[0])
 print(testing_labels[0])
 ```
 
-Feel free to explore the code and adapt it to your specific needs. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
+*Feel free to explore the code and adapt it to your specific needs. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.*

@@ -21,8 +21,8 @@ Welcome to my machine learning repository! Here, you'll find a collection of pro
 I'm Ayman Haseeb, a passionate machine learning enthusiast and developer. Feel free to reach out for discussions, collaborations, or if you have any questions about the projects.
 
 ## 🌐 Connect with Me
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_aymaaaaan___/) 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-haseeb-4281a1251/) 
-- [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aymanhaseeb8121) 
+- ![Instagram](https://www.instagram.com/_aymaaaaan___/) 
+- ![LinkedIn](https://www.linkedin.com/in/ayman-haseeb-4281a1251/) 
+- ![Medium](https://medium.com/@aymanhaseeb8121) 
 
 Explore the projects, and I hope you find inspiration or insights for your own machine learning journey. Happy coding!

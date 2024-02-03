@@ -21,8 +21,8 @@ Welcome to my machine learning repository! Here, you'll find a collection of pro
 I'm Ayman Haseeb, a passionate machine learning enthusiast and developer. Feel free to reach out for discussions, collaborations, or if you have any questions about the projects.
 
 ## 🌐 Connect with Me
-- [Instagram](https://www.instagram.com/_aymaaaaan___/) 
 - [LinkedIn](https://www.linkedin.com/in/ayman-haseeb-4281a1251/) 
-- [Medium](https://medium.com/@aymanhaseeb8121) 
+- [Medium](https://medium.com/@aymanhaseeb8121)
+- [Instagram](https://www.instagram.com/_aymaaaaan___/) 
 
 Explore the projects, and I hope you find inspiration or insights for your own machine learning journey. Happy coding!

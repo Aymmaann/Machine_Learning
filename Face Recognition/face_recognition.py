@@ -23,13 +23,12 @@ def knn(train, test, k=5):
 
 # Initialize webcam
 cap = cv2.VideoCapture(1)
-face_cascade = cv2.CascadeClassifier("/Users/ayman/Desktop/AI_mafia/Face Recognition/haarcascade_frontalface_alt.xml")
+face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_alt.xml")
 
 # Data Preperation
 class_id = 0
 names = {}
-dataset_path = "/Users/ayman/Desktop/AI_mafia/Face Recognition/data/"
-# dataset_path = "./data/"
+dataset_path = "./data/"
 face_data = []
 labels = []
 for fx in os.listdir(dataset_path):
@@ -68,7 +67,6 @@ while True:
         cv2.rectangle(gray_frame, (x,y), (x+w,y+h), (0,255,0), 3)
         print(len(face_section))
 
-    # cv2.imshow("Frame", frame)
     cv2.imshow("Gray frame", gray_frame)
     
     key_pressed = cv2.waitKey(1) & 0xFF

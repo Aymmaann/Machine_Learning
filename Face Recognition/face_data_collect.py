@@ -3,10 +3,10 @@ import numpy as np
 
 # Initiliaze
 cap = cv2.VideoCapture(1)
-face_cascade = cv2.CascadeClassifier("/Users/ayman/Desktop/AI_mafia/Face Recognition/haarcascade_frontalface_alt.xml")
+face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_alt.xml")
 
 face_data = []
-dataset_path = "/Users/ayman/Desktop/AI_mafia/Face Recognition/data/"
+dataset_path = "./data/"
 file_name = input("Enter the name of the person: ")
 
 while True:
@@ -29,7 +29,6 @@ while True:
         face_data.append(face_section)
         print(len(face_section))
 
-    # cv2.imshow("Frame", frame)
     cv2.imshow("Gray frame", gray_frame)
     
     key_pressed = cv2.waitKey(1) & 0xFF
